@@ -1,5 +1,5 @@
 # Lab5
-add input name and something inputted
+print the (input name and otherthing together)
 
 Group member:
 
