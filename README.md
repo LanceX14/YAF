@@ -6,5 +6,9 @@
    Example: your age = 19 and your friend is 19, then input the information and get "What a coincidence! you guys are same age!".
    ## Contributing
    To contribute, you can directly access and add new properties(such as educational background or height), then please make sure to update tests as appropriate.
+   ## License
+   MIT
+   ## Codes of conduct
+   Contributor Covenant
    
    ![let's make it!](https://media.giphy.com/media/HhbjYgx6hcNS5p8vuX/giphy.gif)
