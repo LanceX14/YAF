@@ -7,8 +7,8 @@
    ## Contributing
    To contribute, you can directly access and add new properties(such as educational background or height), then please make sure to update tests as appropriate.
    ## License
-   MIT
+   [MIT](https://choosealicense.com/licenses/mit/)
    ## Codes of conduct
-   Contributor Covenant
+   [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
    
    ![let's make it!](https://media.giphy.com/media/HhbjYgx6hcNS5p8vuX/giphy.gif)
