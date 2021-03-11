@@ -1,5 +1,5 @@
 # YAF
-   YAF is the expansion of "you and friend". This program could let you enter two features and then compare them.
+   YAF is the expansion of "you and friend". This program could let you enter two features(age and job) for you and your best friend and then compare them. You will get feedback if you are the same age as your friend or you have the same job.
    ## Usage
    (Open YAF.ipynb, follow the instructions and enter your information and your friend's information in turn, and then you can get feedback.)
    ```python
