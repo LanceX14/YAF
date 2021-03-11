@@ -16,7 +16,7 @@
 
    ```
 
-   (In example above: your age = 19 and your friend is 19, then input the information and get "What a coincidence! you guys are same age!".)
+   (In example above: your age = 19 and your friend is 19, then input the information and get "what a coincidence! you guys are same age!", and you guys have same job "student", so get "what a coincidence! You guys have same job!")
    ## Contributing
    To contribute, you can directly access and add new properties(such as educational background or height), then please make sure to update tests as appropriate.
    ## License
