@@ -1,7 +1,12 @@
 # YAF
    YAF is the expansion of "you and friend". This program could let you enter two features and then compare them.
    ## Usage
-   Open YAF.ipynb, follow the instructions and enter your information and your friend's information in turn, and then you can get feedback.
+   (Open YAF.ipynb, follow the instructions and enter your information and your friend's information in turn, and then you can get feedback.)
+   ```python
+   foobar.pluralize('word') # returns 'words'
+   foobar.pluralize('goose') # returns 'geese'
+   foobar.singularize('phenomena') # returns 'phenomenon'
+   ```
 
    Example: your age = 19 and your friend is 19, then input the information and get "What a coincidence! you guys are same age!".
    ## Contributing
