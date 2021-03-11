@@ -3,12 +3,20 @@
    ## Usage
    (Open YAF.ipynb, follow the instructions and enter your information and your friend's information in turn, and then you can get feedback.)
    ```python
-   foobar.pluralize('word') # returns 'words'
-   foobar.pluralize('goose') # returns 'geese'
-   foobar.singularize('phenomena') # returns 'phenomenon'
+   Please input your name! # input "LANCE"
+   Your age please! # input 19
+   what's your job?? # input "student"
+   # return "Lance who is 19 is a student"
+   your BFF name? # input "Tom"
+   his/her age? # input 19
+   his/her job? # input "student"
+   # return "Tom who is 19 is a student"
+   # return "what a coincidence! You guys are same age!"
+   # return "what a coincidence! You guys have same job!"
+
    ```
 
-   Example: your age = 19 and your friend is 19, then input the information and get "What a coincidence! you guys are same age!".
+   (In example above: your age = 19 and your friend is 19, then input the information and get "What a coincidence! you guys are same age!".)
    ## Contributing
    To contribute, you can directly access and add new properties(such as educational background or height), then please make sure to update tests as appropriate.
    ## License
