@@ -6,13 +6,13 @@
    Please input your name! # input "LANCE"
    Your age please! # input 19
    what's your job?? # input "student"
-   # return "Lance who is 19 is a student"
+   # print "Lance who is 19 is a student"
    your BFF name? # input "Tom"
    his/her age? # input 19
    his/her job? # input "student"
-   # return "Tom who is 19 is a student"
-   # return "what a coincidence! You guys are same age!"
-   # return "what a coincidence! You guys have same job!"
+   # print "Tom who is 19 is a student"
+   # print "what a coincidence! You guys are same age!"
+   # print "what a coincidence! You guys have same job!"
 
    ```
 
